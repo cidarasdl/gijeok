@@ -2030,6 +2030,11 @@ body {
   .testimonials .item {
     padding: 40px 40px 60px 40px;
   }
+
+  .testimonials .item iframe {
+    width: 97%;
+  }
+  
   .testimonials .item h4 {
     font-size: 17px;
   }
